@@ -386,3 +386,7 @@ margin: 13px 0;
    gap:22px;
   }
 }
+::selection{
+  background: transparent;
+  color:transparent;
+}
